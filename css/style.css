@@ -13,6 +13,8 @@ body {
 
 #actionitems {
   font-family: Roboto Slab;
+  color: black;
+  text-align: right;
 }
 
 #welike {
