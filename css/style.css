@@ -20,3 +20,14 @@ font-family: Roboto Slab;
 color: black;
 text-align: right;
 }
+
+#linkbar {
+  display: block;
+  font-family: Roboto Slab;
+  color: white;
+  letter-spacing: 2px;
+  text-align: center;
+  background-color: #89409B;
+  opacity: .8;
+  height: 25px
+}
