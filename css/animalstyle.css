@@ -1,0 +1,21 @@
+body {
+  font-family: Roboto Slab;
+  background-image: url("https://github.com/teepeesanguine/teepeesanguine.github.io/blob/master/galaxy-wallpaper-11.jpg?raw=true");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.page-header {
+  font-family: Megrim;
+  text-align: right;
+  opacity: .9;
+}
+
+#name {
+  display: block;
+  margin-left: 40%;
+  margin-top: 20px;
+  background-color: yellow;
+    letter-spacing: 7px;
+}
