@@ -11,6 +11,10 @@ body {
   opacity: .9;
 }
 
+#placeholder {
+  float: left;
+}
+
 #textholder {
 font-family: Roboto Slab;
 color: black;
