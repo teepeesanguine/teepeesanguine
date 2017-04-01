@@ -10,3 +10,9 @@ body {
   text-align: right;
   opacity: .9;
 }
+
+#textholder {
+font-family: Roboto Slab;
+color: white;
+text-align: right;
+}
