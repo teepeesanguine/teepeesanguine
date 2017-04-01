@@ -1,0 +1,12 @@
+body {
+  font-family: Roboto Slab;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.page-header {
+  font-family: Megrim;
+  text-align: right;
+  opacity: .9;
+}
