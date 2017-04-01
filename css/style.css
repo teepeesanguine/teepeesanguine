@@ -11,6 +11,16 @@ body {
   opacity: .9;
 }
 
+#actionitems {
+  font-family: Roboto Slab;
+}
+
+#welike {
+  font-family: Roboto Slab;
+  color: black;
+  text-align: right;
+}
+
 #placeholder {
   float: left;
 }
