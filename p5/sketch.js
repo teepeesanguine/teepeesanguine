@@ -20,7 +20,7 @@ colorMode(HSB)
 rectMode(CENTER)
 
 button = createButton('More 5th Floor');
-button.position(width/2, 450);
+button.position(width/2, 500);
 button.mousePressed(newImage)
 }
 
