@@ -1,0 +1,31 @@
+
+body {
+  background-color:#000000;
+  font-family: 'Amatic SC', cursive;
+}
+
+#container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+
+#header {
+  color: #FFFFFF;
+  grid-column: span 3;
+  font-size: 20px;
+}
+
+.bulb {
+      border-radius: 10px;
+      background-color: black;
+      padding: 10px;
+      margin: 20px;
+}
+
+.active {
+  background-color: rgb(110,110,110);
+  box-shadow: 0 0 50px white;
+}
