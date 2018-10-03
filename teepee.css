@@ -1,0 +1,16 @@
+h1{
+  font-family: 'Megrim',cursive;
+}
+
+body {
+  font-family: 'Slabo 27px', serif;
+}
+
+#type{
+  font-style: italic;
+}
+
+div {
+  margin-left: 25%;
+  margin-top: 25%
+}
